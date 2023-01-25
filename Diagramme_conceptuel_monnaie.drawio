@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T22:17:20.796Z" agent="5.0 (Windows)" etag="0z_hOAIMhdUHbHizFO6i" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T22:21:12.807Z" agent="5.0 (Windows)" etag="iyTHU8dkGxK51royWBNN" version="20.8.5" type="github">
   <diagram id="CjiaHMaBVddssaq4kyfS" name="1.0">
     <mxGraphModel dx="1450" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -263,10 +263,10 @@
         <mxCell id="xf_oXh0y7SjaSMI43Iii-225" value="date de fin d&#39;émission" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;html=0;" parent="xf_oXh0y7SjaSMI43Iii-42" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xf_oXh0y7SjaSMI43Iii-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="xf_oXh0y7SjaSMI43Iii-48" target="xf_oXh0y7SjaSMI43Iii-42" edge="1">
+        <mxCell id="xf_oXh0y7SjaSMI43Iii-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xf_oXh0y7SjaSMI43Iii-42" target="xf_oXh0y7SjaSMI43Iii-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xf_oXh0y7SjaSMI43Iii-83" value="nomme " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="xf_oXh0y7SjaSMI43Iii-82" vertex="1" connectable="0">
+        <mxCell id="xf_oXh0y7SjaSMI43Iii-83" value="est nommé par" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="xf_oXh0y7SjaSMI43Iii-82" vertex="1" connectable="0">
           <mxGeometry x="-0.1537" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
